@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://galomer310.github.io/Productivity-Tracker/",
+  "homepage": "https://galomer310.github.io/P-T/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
